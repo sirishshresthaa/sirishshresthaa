@@ -32,4 +32,4 @@
 ## 📫 Let's Connect
 
 - 📧 Email: sirishshrestha5@gmail.com
-- 🔗 LinkedIn: [www.linkedin.com/in/sirish-shrestha-536724265](#)
+- 🔗 LinkedIn: [Sirish Shrestha](https://www.linkedin.com/in/sirish-shrestha-536724265)
