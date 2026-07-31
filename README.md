@@ -18,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-**Testing Concepts:** SDLC/STLC · Agile/Scrum · Boundary Value Analysis · Equivalence Partitioning · Decision Table Testing · API Testing
+**Testing Concepts:** SDLC/STLC · Boundary Value Analysis · API Testing
 
 ---
 
