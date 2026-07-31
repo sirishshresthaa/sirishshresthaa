@@ -16,10 +16,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Testing Concepts:** SDLC/STLC · Agile/Scrum · Boundary Value Analysis · Equivalence Partitioning · Decision Table Testing · API Testing
 
@@ -36,5 +34,5 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](#)
+- 📧 Email: sirishshrestha5@gmail.com
+- 🔗 LinkedIn: [www.linkedin.com/in/sirish-shrestha-536724265](#)
