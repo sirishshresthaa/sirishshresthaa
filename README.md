@@ -3,11 +3,13 @@
 
 ## 🧪 QA Projects
 
-| Project | Key Focus | 
-|---|---|---|
+## 🧪 QA Projects
+
+| Project | Key Focus |
+|---|---|
 | Banking Login System (BLS) — Test Plan | Manual Testing, BVA, Equivalence Partitioning, Decision Tables |
-| Cypress E2E Test Suite (SauceDemo) | Test Automation, Regression Testing | 
-| Postman API Collection (Vyaguta) | API Testing, Schema Validation | 
+| Cypress E2E Test Suite (SauceDemo) | Test Automation, Regression Testing |
+| Postman API Collection (Vyaguta) | API Testing, Schema Validation |
 
 ## 🛠️ Technologies & Tools
 
