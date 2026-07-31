@@ -8,7 +8,6 @@
 | Banking Login System (BLS) — Test Plan | Manual Testing, BVA, Equivalence Partitioning, Decision Tables | [View Project](#) |
 | Cypress E2E Test Suite (SauceDemo) | Test Automation, Regression Testing | [View Project](#) |
 | Postman API Collection (Vyaguta) | API Testing, Schema Validation | [View Project](#) |
-| AI Solutions Web App | Full-Stack Development (Flask, MongoDB) with Admin Dashboard & Chatbot | [View Project](#) |
 
 ## 🛠️ Technologies & Tools
 
