@@ -28,8 +28,6 @@
 | Certification | Issuing Organization | Type | Verification |
 |---|---|---|---|
 | QA Foundations Training (8 weeks) | Leapfrog Connect | Manual & Automation QA | [View Certificate](./certificates/leapfrog-qa-foundations.pdf) |
-| ISTQB Foundation Level *(in progress)* | ISTQB | QA | — |
-
 ---
 
 ## 📫 Let's Connect
