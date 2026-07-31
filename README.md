@@ -3,8 +3,6 @@
 
 ## 🧪 QA Projects
 
-## 🧪 QA Projects
-
 | Project | Key Focus |
 |---|---|
 | Banking Login System (BLS) — Test Plan | Manual Testing, BVA, Equivalence Partitioning, Decision Tables |
