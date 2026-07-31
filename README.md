@@ -1,4 +1,4 @@
-# Hi, I'm Sirish! 👋
+# Hey, I'm Sirish! 👋
 ### Aspiring QA Engineer | Manual & Automation Testing
 
 ## 🧪 QA Projects
