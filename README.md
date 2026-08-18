@@ -5,7 +5,6 @@
 
 | Project | Key Focus |
 |---|---|
-| Banking Login System (BLS) — Test Plan | Manual Testing, BVA, Equivalence Partitioning, Decision Tables |
 | Cypress E2E Test Suite (SauceDemo) | Test Automation, Regression Testing |
 | Postman API Collection (Vyaguta) | API Testing, Schema Validation |
 
@@ -15,7 +14,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 **Testing Concepts:** SDLC/STLC · Boundary Value Analysis · API Testing
